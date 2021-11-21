@@ -1,0 +1,4 @@
+ESTRUTURA: for var in range(var, var, var) ou for variavel in range(var, var)
+A terceira condição indica o que fazer com as duas primeiras, por exemplo:
+-1 indica que é pra tirar 1, entao 6, 0, -1, significa que irá contar de 6 até 0 pq irá tirar 1 de cada número
+2 indica que irá pulando de 2 em 2

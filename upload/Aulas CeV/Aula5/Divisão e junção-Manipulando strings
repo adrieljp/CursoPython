@@ -1,0 +1,16 @@
+'''
+====================================================================================Manipulando string!=========================================================================================================
+DIVISÃO
+Divisão tem a função de dividir a string e fazendo várias strings de uma só.
+frase = "Curso em vídeo Python"
+
+Divisão comandos:
+frase.split() ========== Esse comando divide a string, ex: "Curso em vídeo Python" ficaria "Curso" "em" "vídeo" "python", lembrando que cada divisão reinicia os caracteres para 0, 1, 2.
+
+JUNÇÃO
+Junção pode ser usado junto com a divisão, ele junta as strings novamente.
+frase = "Curso em vídeo Python"
+
+Junção comandos:
+"-".join(frase) ======== Esse comando junta a string novamente adicionando o que está entre "" nos espaços entre uma string e outra.
+'''

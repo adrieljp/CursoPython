@@ -1,0 +1,15 @@
+====================================================================================Manipulando string!=========================================================================================================
+ANÁLISE
+Análise significa que ira analisar a string como, mostrar o tamanho dela, indicar quantos tem de um caracter especifico e etc.
+frase = "Curso em vídeo Python"
+
+Análise comandos:
+len(frase) ========== "frase" é a variavel e a função "len" indica o tamanho da string.
+
+frase.count('o') ==== essa função lê o caracter dentro dos () e indica quantos tem do mesmo.
+
+frase.count('o', 0, 13) ==== essa função lê o caracter dentro dos () e os numeros fatiam a string, ou seja, quantos daquele caracter entre os caracteres 0 e 13.
+
+frase.find('deo') === essa função lê o que está dentro dos () e indica em qual posição começa e termina o que está dentro dos ().
+
+"Curso" in frase ==== esse comando indica se na variavel "frase" existe a palavra que está escrita entre os "", lembrando que frase é a variavel e pode ser alterado.

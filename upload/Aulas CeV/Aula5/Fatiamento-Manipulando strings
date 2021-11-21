@@ -1,0 +1,17 @@
+====================================================================================Manipulando string!=========================================================================================================
+FATIAMENTO
+Fatiamento significa fatiar uma string, eu defino um caracter que irá ser "pego"
+frase = "Curso em vídeo Python"
+
+Fatiamento comandos:
+frase[15] ============ "frase" é a variável e "15" entre os colchetes é a letra que ira ser "pega" da string.
+
+frase[9:15] ========== 9 é onde começa e 15 é onde termina, lembrando que o ultimo caracter é excluido entao ira ate o caracter 14.
+
+frase[9:15:2] ======== 9 é onde começa e 15 é onde termina, o 2 significa que irá pulando de 2 em 2
+
+frase[:5] ============ 5 é onde termina e o valor omitido antes dos ":" significa que irá começar no primeiro caracter.
+
+frase[15:] =========== 15 é onde começa e o valor omitido depois dos ":" significa que irá terminar no ultimo caracter.
+
+frase[9::3] ========== 9 é onde começa o valor omitido no meio significa que irá terminar no ultimo caracter e o 2 significa que irá pulando de 3 em 3.

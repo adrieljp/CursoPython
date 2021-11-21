@@ -1,0 +1,23 @@
+'''
+====================================================================================Manipulando string!=========================================================================================================
+TRANSFORMAÇÃO
+Transformação significa transformar elementos da string.
+frase = "Curso em vídeo Python"
+
+Transformação comandos:
+frase.replace("Python", "Android") ========== Esse comando recoloca uma frase no lugar de outra, nesse caso coloca "Android" no lugar de "Python".
+
+frase.upper() ========== Esse comando deixa todas as letras minusculas em maiusculas e mantem as maiusculas.
+
+frase.lower() ========== Esse comando deixa todas as letras maiusculas em minusculas e mantem as minusculas.
+
+frase.capitalize() ===== Esse comando deixa apenas a primeira letra da string em maiuscula.
+
+frase.title() ========== Esse comando deixa todas as primeiras letras da string em maiusculas.
+
+frase.strip() ========== Esse comando remove todos os espaços desnecessários nas extremidades da string.
+
+frase.lstrip() ========= Esse comando remove os espaços desnecessários no lado esquerdo da string.
+
+frase.rstrip() ========= Esse comando remove os espaços desnecessários no lado direito da string.
+'''
